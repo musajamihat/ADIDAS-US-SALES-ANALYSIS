@@ -76,8 +76,11 @@ The datasets includes:
 ---
 
 ## Recommendation
+- Stakeholders should invent more in the highest selling product **Men's street footwear** to maximize revenue
+- Strenghtening partnership with **Top performing** retailers can further improve overall sales performance
+- Stakerholders should focus more on In-store sales method as it generate consistent revenues compared to other sales methods
 
+---
 
-  
+**DATASETS USED LEARNING AND ANALYTICAL PURPOSE**
  
-- 
