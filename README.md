@@ -71,7 +71,7 @@ The datasets includes:
  ---
  
  ## Dashbooard Preview
- ![
+ ![Adidas_US_Dashboard](
  
 
 
