@@ -68,16 +68,15 @@ The datasets includes:
 - Charleston and New York outperform all other cities in revenue and profit, making it the highest-performing cities overall
 - New York, Texas, Califonia and Florida are top 4 highest-performing states, making them the leading states overall
 
- ---
+---
  
- ## Dashbooard Preview
- ![Adidas_US_Dashboard](
- 
+## Dashbooard Preview
+![Adidas_US_Dashboard](ADIDAS_US_SALES.png)
 
+---
 
+## Recommendation
 
-
- ## Recommendation
 
   
  
